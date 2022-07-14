@@ -1,6 +1,5 @@
 # AB Testing
-
-![1_hDHvumdB397_mTWXCtUvsw](https://user-images.githubusercontent.com/108512938/179053469-8a563596-d58c-4fc5-acb6-94cb62fa0ae4.png)
+![ab-testing-1024x538](https://user-images.githubusercontent.com/108512938/179093057-10b15cff-4ea6-4cc2-b6a7-ceaaa4e72d3b.jpg)
 # İş Problemi
 Facebook kısa süre önce mevcut "maximum bidding" adı verilen 
 teklif verme türüne alternatif olarak yeni bir teklif türü olan 
