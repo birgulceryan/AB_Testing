@@ -116,7 +116,6 @@ print('Test Stat = %.4f, p-value = %.4f' % (test_stat, pvalue))
 #Test Stat = 0.9589, p-value = 0.1541
 ## p_value >0.05 olduğunda Ho reddedilmez, yani normallik varsayımı sağlanmaktadır.
 
-
 #########
 #Adım 2: Normallik Varsayımı ve Varyans Homojenliği sonuçlarına göre uygun testi seçiniz.
 #########
